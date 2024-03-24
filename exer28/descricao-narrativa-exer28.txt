@@ -1,0 +1,8 @@
+PASSO 1 - Crie as variáveis a, b, c (que são os coeficientes) e receba a entrada de seus valores.
+PASSO 2 - Se a for menor que 0, então faça a saida da mensagem 'O coeficiente a deve ser maior que 0!' e finalize o programa.
+PASSO 3 - Inicialize a variável delta com a expressão b**2 - 4 * a * c.
+PASSO 4 - Inicialize a variável x1 com a expressão (b + delta**(1/2))/(2 * a).
+PASSO 5 - Inicialize a variável x2 com a expressão (b - delta**(1/2))/(2 * a).
+PASSO 6 - Se delta for maior que 0, então faça a saida das variáveis x1 e x2 e finalize o programa.
+PASSO 7 - Se não se delta for igual a 0, então faça a saida da variável x1 e finalize o programa.
+PASSO 8 - Se não, faça a saida da mensagem 'Delta negativo!' e finalize o programa.
