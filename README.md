@@ -1,1 +1,1 @@
-<a>exer28/fluxograma-exer28.png</a>
+</img src='exer28/fluxograma-exer28.png'>
