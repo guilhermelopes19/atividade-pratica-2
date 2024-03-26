@@ -4,4 +4,4 @@
 
 #Imprimi no terminal a mensagem 'Alo mundo'
 
-print('Alo mundo')
+print('Alo mundo') # Imprimi a mensagem "Alo mundo"
