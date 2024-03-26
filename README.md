@@ -1,45 +1,49 @@
-#Exercicio 1
-(Codigo python)[]
-##Descrição Narrativa
-(Descrição narrativa)[]
-##Pseudocodigo
-(Pseudocodigo)[]
-##Fluxograma
+<h1>Exercicio 1</h1>
+<h2>Codigo Python</h2>
+(Codigo python)
+<h2>Descrição Narrativa</h2>
+(Descrição narrativa)
+<h2>Pseudocodigo</h2>
+(Pseudocodigo)
+<h2>Fluxograma</h2>
 <img src='exer1/fluxograma-exer1.png'/>
 
-#Exercicio 2
-(Codigo python)[]
-##Descrição Narrativa
-(Descrição narrativa)[]
-##Pseudocodigo
-(Pseudocodigo)[]
-##Fluxograma
-<img src='exer2/fluxograma-exer2.png'/>
+<h1>Exercicio 2</h1>
+<h2>Codigo Python</h2>
+(Codigo python)
+<h2>Descrição Narrativa</h2>
+(Descrição narrativa)
+<h2>Pseudocodigo</h2>
+(Pseudocodigo)
+<h2>Fluxograma</h2>
+<img src='exer2/fluxograma-exe2.png'/>
 
-#Exercicio 8
-##Codigo python
-(Codigo python)[]
-##Descrição Narrativa
-(Descrição narrativa)[]
-##Pseudocodigo
-(Pseudocodigo)[]
-##Fluxograma
+<h1>Exercicio 8</h1>
+<h2>Codigo Python</h2>
+<a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer8/exer8.py" target="_blank">(Codigo python)</a>
+<h2>Descrição Narrativa</h2>
+<a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer8/descricao-narrativa-exer8.txt" target="_blank">(Descrição narrativa)</a>
+<h2>Pseudocodigo</h2>
+<a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer8/pseucodigo-exer8.por" target="_blank">(Pseudocodigo)</a>
+<h2>Fluxograma</h2>
 <img src='exer8/fluxograma-exer8.png'/>
 
-#Exercicio 12
-(Codigo python)[]
-##Descrição Narrativa
-(Descrição narrativa)[]
-##Pseudocodigo
-(Pseudocodigo)[]
-##Fluxograma
+<h1>Exercicio 12</h1>
+<h2>Codigo Python</h2>
+(Codigo python)</h2>
+<h2>Descrição Narrativa</h2>
+(Descrição narrativa)
+<h2>Pseudocodigo</h2>
+(Pseudocodigo)
+<h2>Fluxograma</h2>
 <img src='exer12/fluxograma-exer12.png'/>
 
-#Exercicio 28
-(Codigo python)[]
-##Descrição Narrativa
-(Descrição narrativa)[]
-##Pseudocodigo
-(Pseudocodigo)[]
-##Fluxograma
+<h1>Exercicio 28</h1>
+<h2>Codigo Python</h2>
+<a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer28/exer28.py" target="_blank">(Codigo python)</a>
+<h2>Descrição Narrativa</h2>
+<a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer28/descricao-narrativa-exer28.txt" target="_blank">(Descrição narrativa)</a>
+<h2>Pseudocodigo</h2>
+<a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer28/pseudocodigo-exer28.por" target="_blank">(Pseudocodigo)</a>
+<h2>Fluxograma</h2>
 <img src='exer28/fluxograma-exer28.png'/>
