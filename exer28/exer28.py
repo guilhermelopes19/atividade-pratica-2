@@ -1,6 +1,6 @@
 #Alunos
 #Guilherme Souza Lopes - 072320015
-#Sara Stephanie Costa - 0723200
+#Sara Stephanie Costa - 072320039
 
 # O seguinte programa recebe os coeficientes de uma equação 
 # do segundo grau e imprime o valor das suas raízes reais

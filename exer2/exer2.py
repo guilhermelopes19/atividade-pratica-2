@@ -1,6 +1,6 @@
 #Alunos
 #Guilherme Souza Lopes - 072320015
-#Sara Stephanie Costa - 0723200
+#Sara Stephanie Costa - 072320039
 
 nome1 = 'Sara Costa'
 nome2 = 'Guilherme Souza'
