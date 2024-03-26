@@ -1,0 +1,3 @@
+PASSO 1 - Inicializacao da variavel grauF com a entrada da temperatura em graus Fahrenheit
+Passo 2 - Inicializacao da variavel grauC com a expressao 5 * ((grausF - 32) / 9)
+PASSO 3 - Saida de grauC

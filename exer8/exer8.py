@@ -1,6 +1,6 @@
 #Alunos
 #Guilherme Souza Lopes - 072320015
-#
+#Sara Stephanie Costa - 0723200
 
 # O seguinte codigo recebe uma temperatura 
 # em graus Fahrenheit e converte para graus Celsius
