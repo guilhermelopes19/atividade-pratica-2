@@ -1,0 +1,3 @@
+PASSO 1 - Digite a temperatura em Fahrenheit
+PASSO 2 - Se a temperatura estiver em Fahrenheit, então grausC = 5 * ((grausF - 32) / 9). 
+PASSO 3 - Mostre a temperatura em graus Celsius. 
