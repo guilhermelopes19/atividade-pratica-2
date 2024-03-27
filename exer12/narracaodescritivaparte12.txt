@@ -1,6 +1,3 @@
 PASSO 1 - Crie as variáveis a e b ( números reais) 
 PASSO 2 - Se a maior que b, então imprima a
 passo 3 - Se nao, então imprima b
-
-
-
