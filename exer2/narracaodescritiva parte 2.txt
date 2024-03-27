@@ -1,0 +1,2 @@
+PASSO 1 - Crie as variáveis nome1, nome2, matricula1, matricula2 e inicialize-as com os seguintes valores, respectivamente, ' Guilherme', '072320039', 'Sara', '072320039'
+PASSO 2 - Mostre as variáveis 
