@@ -32,7 +32,7 @@
 <h2>Codigo Python</h2>
 <a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer12/exer12.py">(Codigo python)</a>
 <h2>Descrição Narrativa</h2>
-(Descrição narrativa)
+<a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer12/narracaodescritivaparte12.txt">(Descrição narrativa)</a>
 <h2>Pseudocodigo</h2>
 <a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer12/pseudocodigo-exer12.por">(Pseudocodigo)</a>
 <h2>Fluxograma</h2>
