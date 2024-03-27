@@ -2,9 +2,9 @@
 <h2>Codigo Python</h2>
 <a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer1/exer1.py">(Codigo python)</a>
 <h2>Descrição Narrativa</h2>
-(Descrição narrativa)
+<a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer1/descricao-narrativa1.txt">(Descrição narrativa)</a>
 <h2>Pseudocodigo</h2>
-(Pseudocodigo)
+<a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer1/pseudocodigo-exer1.por">(Pseudocodigo)</a>
 <h2>Fluxograma</h2>
 <img src='exer1/fluxograma-exer1.png'/>
 
@@ -12,9 +12,9 @@
 <h2>Codigo Python</h2>
 <a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer2/exer2.py">(Codigo python)</a>
 <h2>Descrição Narrativa</h2>
-(Descrição narrativa)
+<a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer2/narracaodescritiva%20parte%202.txt">(Descrição narrativa)</a>
 <h2>Pseudocodigo</h2>
-(Pseudocodigo)
+<a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer2/pseudocodigo-exer2.por">(Pseudocodigo)</a>
 <h2>Fluxograma</h2>
 <img src='exer2/fluxograma-exe2.png'/>
 
@@ -30,11 +30,11 @@
 
 <h1>Exercicio 12</h1>
 <h2>Codigo Python</h2>
-(Codigo python)</h2>
+<a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer12/exer12.py">(Codigo python)</a>
 <h2>Descrição Narrativa</h2>
 (Descrição narrativa)
 <h2>Pseudocodigo</h2>
-(Pseudocodigo)
+<a href="https://github.com/guilhermelopes19/atividade-pratica-2/blob/main/exer12/pseudocodigo-exer12.por">(Pseudocodigo)</a>
 <h2>Fluxograma</h2>
 <img src='exer12/fluxograma-exer12.png'/>
 
